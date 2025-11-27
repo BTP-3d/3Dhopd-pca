@@ -1,0 +1,30 @@
+--- Doll ---
+ICP Score      → Average: 0.000434, Median: 0.000330
+Precision (%)  → Average: 44.86, Median: 40.00
+Time (ms)      → Average: 410.41, Median: 407.00
+
+--- Duck ---
+ICP Score      → Average: 0.001119, Median: 0.000744
+Precision (%)  → Average: 43.98, Median: 41.67
+Time (ms)      → Average: 475.52, Median: 484.00
+
+--- Frog ---
+ICP Score      → Average: 0.001130, Median: 0.000833
+Precision (%)  → Average: 43.45, Median: 39.23
+Time (ms)      → Average: 512.61, Median: 504.50
+
+--- Mario ---
+ICP Score      → Average: 0.000443, Median: 0.000350
+Precision (%)  → Average: 48.26, Median: 50.00
+Time (ms)      → Average: 381.58, Median: 379.50
+
+--- Rabbit ---
+ICP Score      → Average: 0.000368, Median: 0.000280
+Precision (%)  → Average: 53.00, Median: 57.74
+Time (ms)      → Average: 332.32, Median: 332.50
+
+--- Squirrel ---
+ICP Score      → Average: 0.000245, Median: 0.000190
+Precision (%)  → Average: 55.72, Median: 66.67
+Time (ms)      → Average: 348.84, Median: 343.00
+

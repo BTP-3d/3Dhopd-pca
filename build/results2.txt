@@ -1,0 +1,442 @@
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit000.ply.pcd | Precision: 96.5517% | Recall: 7.79944% | Matches: 29 | Time: 359ms
+ | ICP refinement score 7.7647e-05
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit001.ply.pcd | Precision: 0% | Recall: 0% | Matches: 14 | Time: 341ms
+ | ICP refinement score 0.000121774
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit002.ply.pcd | Precision: 33.3333% | Recall: 1.40056% | Matches: 15 | Time: 332ms
+ | ICP refinement score 0.000378125
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit003.ply.pcd | Precision: 89.4737% | Recall: 4.67033% | Matches: 19 | Time: 337ms
+ | ICP refinement score 0.000188147
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit004.ply.pcd | Precision: 36.3636% | Recall: 2.45399% | Matches: 22 | Time: 317ms
+ | ICP refinement score 0.000605575
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit005.ply.pcd | Precision: 77.7778% | Recall: 4.4586% | Matches: 18 | Time: 328ms
+ | ICP refinement score 0.000170882
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit006.ply.pcd | Precision: 66.6667% | Recall: 2.0202% | Matches: 9 | Time: 329ms
+ | ICP refinement score 0.00037586
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit007.ply.pcd | Precision: 92.5926% | Recall: 7.71605% | Matches: 27 | Time: 326ms
+ | ICP refinement score 0.000729784
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit008.ply.pcd | Precision: 64.2857% | Recall: 2.76923% | Matches: 14 | Time: 338ms
+ | ICP refinement score 0.000653896
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit009.ply.pcd | Precision: 38.8889% | Recall: 2.04678% | Matches: 18 | Time: 325ms
+ | ICP refinement score 0.00039786
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit010.ply.pcd | Precision: 0% | Recall: 0% | Matches: 11 | Time: 325ms
+ | ICP refinement score 0.000340475
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit011.ply.pcd | Precision: 62.5% | Recall: 4.53172% | Matches: 24 | Time: 333ms
+ | ICP refinement score 0.000409009
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit012.ply.pcd | Precision: 91.6667% | Recall: 6.74847% | Matches: 24 | Time: 333ms
+ | ICP refinement score 0.00478397
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit013.ply.pcd | Precision: 0% | Recall: 0% | Matches: 25 | Time: 338ms
+ | ICP refinement score 0.0012306
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit014.ply.pcd | Precision: 100% | Recall: 8.26211% | Matches: 29 | Time: 311ms
+ | ICP refinement score 2.64063e-05
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit015.ply.pcd | Precision: 100% | Recall: 11.0778% | Matches: 37 | Time: 277ms
+ | ICP refinement score 4.6975e-05
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit000.ply.pcd | Precision: 100% | Recall: 6.81818% | Matches: 24 | Time: 338ms
+ | ICP refinement score 3.46593e-05
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit001.ply.pcd | Precision: 5.55556% | Recall: 0.266667% | Matches: 18 | Time: 332ms
+ | ICP refinement score 0.000255149
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit002.ply.pcd | Precision: 12.5% | Recall: 0.550964% | Matches: 16 | Time: 338ms
+ | ICP refinement score 0.000261946
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit003.ply.pcd | Precision: 0% | Recall: 0% | Matches: 14 | Time: 333ms
+ | ICP refinement score 0.00039296
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit004.ply.pcd | Precision: 96.7742% | Recall: 9.23077% | Matches: 31 | Time: 299ms
+ | ICP refinement score 0.000262554
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit005.ply.pcd | Precision: 10.7143% | Recall: 0.911854% | Matches: 28 | Time: 300ms
+ | ICP refinement score 0.000160532
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit006.ply.pcd | Precision: 66.6667% | Recall: 2.64901% | Matches: 12 | Time: 307ms
+ | ICP refinement score 0.000191426
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit007.ply.pcd | Precision: 71.4286% | Recall: 3.20513% | Matches: 14 | Time: 309ms
+ | ICP refinement score 0.000224527
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit008.ply.pcd | Precision: 0% | Recall: 0% | Matches: 18 | Time: 347ms
+ | ICP refinement score 0.000430001
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit009.ply.pcd | Precision: 18.75% | Recall: 0.898204% | Matches: 16 | Time: 367ms
+ | ICP refinement score 0.000496791
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit010.ply.pcd | Precision: 0% | Recall: 0% | Matches: 14 | Time: 329ms
+ | ICP refinement score 0.000201005
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit011.ply.pcd | Precision: 56.25% | Recall: 2.85714% | Matches: 16 | Time: 329ms
+ | ICP refinement score 0.000721572
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit012.ply.pcd | Precision: 96% | Recall: 7.20721% | Matches: 25 | Time: 330ms
+ | ICP refinement score 0.000267578
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit013.ply.pcd | Precision: 96% | Recall: 6.91643% | Matches: 25 | Time: 339ms
+ | ICP refinement score 0.000196916
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit014.ply.pcd | Precision: 76.1905% | Recall: 4.51977% | Matches: 21 | Time: 326ms
+ | ICP refinement score 2.48503e-05
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit015.ply.pcd | Precision: 100% | Recall: 10.7558% | Matches: 37 | Time: 296ms
+ | ICP refinement score 2.22735e-05
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit000.ply.pcd | Precision: 100% | Recall: 3.59116% | Matches: 13 | Time: 309ms
+ | ICP refinement score 0.000282865
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit001.ply.pcd | Precision: 45.4545% | Recall: 1.39276% | Matches: 11 | Time: 320ms
+ | ICP refinement score 4.17736e-05
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit002.ply.pcd | Precision: 0% | Recall: 0% | Matches: 15 | Time: 313ms
+ | ICP refinement score 0.000292247
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit003.ply.pcd | Precision: 70.5882% | Recall: 3.34262% | Matches: 17 | Time: 316ms
+ | ICP refinement score 0.00028945
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit004.ply.pcd | Precision: 46.1538% | Recall: 1.85759% | Matches: 13 | Time: 331ms
+ | ICP refinement score 0.000366253
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit005.ply.pcd | Precision: 61.1111% | Recall: 3.36391% | Matches: 18 | Time: 308ms
+ | ICP refinement score 0.000294156
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit006.ply.pcd | Precision: 72.7273% | Recall: 2.67559% | Matches: 11 | Time: 299ms
+ | ICP refinement score 0.000165715
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit007.ply.pcd | Precision: 54.5455% | Recall: 3.79747% | Matches: 22 | Time: 321ms
+ | ICP refinement score 0.000155034
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit008.ply.pcd | Precision: 0% | Recall: 0% | Matches: 12 | Time: 316ms
+ | ICP refinement score 0.000180513
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit009.ply.pcd | Precision: 83.3333% | Recall: 2.94985% | Matches: 12 | Time: 315ms
+ | ICP refinement score 0.00020625
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit010.ply.pcd | Precision: 35.7143% | Recall: 1.47493% | Matches: 14 | Time: 325ms
+ | ICP refinement score 0.000234794
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit011.ply.pcd | Precision: 75% | Recall: 3.79747% | Matches: 16 | Time: 316ms
+ | ICP refinement score 0.000573949
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit012.ply.pcd | Precision: 52.1739% | Recall: 3.49854% | Matches: 23 | Time: 322ms
+ | ICP refinement score 0.000264163
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit013.ply.pcd | Precision: 100% | Recall: 6.30372% | Matches: 22 | Time: 315ms
+ | ICP refinement score 0.000311628
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit014.ply.pcd | Precision: 14.2857% | Recall: 0.561798% | Matches: 14 | Time: 327ms
+ | ICP refinement score 0.000684672
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit015.ply.pcd | Precision: 50% | Recall: 1.69014% | Matches: 12 | Time: 312ms
+ | ICP refinement score 0.000190877
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit000.ply.pcd | Precision: 0% | Recall: 0% | Matches: 15 | Time: 306ms
+ | ICP refinement score 0.000247969
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit001.ply.pcd | Precision: 94.1176% | Recall: 4.35967% | Matches: 17 | Time: 293ms
+ | ICP refinement score 0.000197204
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit002.ply.pcd | Precision: 53.125% | Recall: 4.65753% | Matches: 32 | Time: 278ms
+ | ICP refinement score 0.000388651
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit003.ply.pcd | Precision: 56% | Recall: 4% | Matches: 25 | Time: 277ms
+ | ICP refinement score 0.000265516
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit004.ply.pcd | Precision: 5% | Recall: 0.314465% | Matches: 20 | Time: 283ms
+ | ICP refinement score 0.000417784
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit005.ply.pcd | Precision: 86.6667% | Recall: 4% | Matches: 15 | Time: 293ms
+ | ICP refinement score 0.000198293
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit006.ply.pcd | Precision: 7.14286% | Recall: 0.344828% | Matches: 14 | Time: 268ms
+ | ICP refinement score 0.000342474
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit007.ply.pcd | Precision: 0% | Recall: 0% | Matches: 11 | Time: 298ms
+ | ICP refinement score 0.000997928
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit008.ply.pcd | Precision: 10% | Recall: 0.30581% | Matches: 10 | Time: 301ms
+ | ICP refinement score 0.000352179
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit009.ply.pcd | Precision: 94.4444% | Recall: 4.94186% | Matches: 18 | Time: 308ms
+ | ICP refinement score 0.000465253
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit010.ply.pcd | Precision: 23.0769% | Recall: 0.895522% | Matches: 13 | Time: 287ms
+ | ICP refinement score 0.000357911
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit011.ply.pcd | Precision: 25% | Recall: 1.25786% | Matches: 16 | Time: 286ms
+ | ICP refinement score 0.000160266
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit012.ply.pcd | Precision: 37.037% | Recall: 3.08642% | Matches: 27 | Time: 274ms
+ | ICP refinement score 0.00023936
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit013.ply.pcd | Precision: 66.6667% | Recall: 3.45821% | Matches: 18 | Time: 290ms
+ | ICP refinement score 0.000316601
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit014.ply.pcd | Precision: 76.9231% | Recall: 2.77008% | Matches: 13 | Time: 305ms
+ | ICP refinement score 0.000715775
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit015.ply.pcd | Precision: 4.7619% | Recall: 0.294985% | Matches: 21 | Time: 296ms
+ | ICP refinement score 0.00114379
+Scene: ../kinect/scenes/scene019.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit000.ply.pcd | Precision: 26.6667% | Recall: 1.13314% | Matches: 15 | Time: 332ms
+ | ICP refinement score 0.000121839
+Scene: ../kinect/scenes/scene019.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit001.ply.pcd | Precision: 0% | Recall: 0% | Matches: 10 | Time: 322ms
+ | ICP refinement score 0.000197976
+Scene: ../kinect/scenes/scene019.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit002.ply.pcd | Precision: 46.6667% | Recall: 1.96629% | Matches: 15 | Time: 340ms
+ | ICP refinement score 0.000309461
+Scene: ../kinect/scenes/scene019.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit003.ply.pcd | Precision: 87.5% | Recall: 3.92157% | Matches: 16 | Time: 326ms
+ | ICP refinement score 0.000331024
+Scene: ../kinect/scenes/scene019.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit004.ply.pcd | Precision: 60% | Recall: 2.77778% | Matches: 15 | Time: 341ms
+ | ICP refinement score 0.00080975
+Scene: ../kinect/scenes/scene019.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit005.ply.pcd | Precision: 10% | Recall: 0.615385% | Matches: 20 | Time: 329ms
+ | ICP refinement score 0.000575153
+Scene: ../kinect/scenes/scene019.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit006.ply.pcd | Precision: 46.1538% | Recall: 2.06186% | Matches: 13 | Time: 297ms
+ | ICP refinement score 0.000153132
+Scene: ../kinect/scenes/scene019.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit007.ply.pcd | Precision: 0% | Recall: 0% | Matches: 12 | Time: 309ms
+ | ICP refinement score 0.000115052
+Scene: ../kinect/scenes/scene019.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit008.ply.pcd | Precision: 0% | Recall: 0% | Matches: 11 | Time: 313ms
+ | ICP refinement score 0.000270299
+Scene: ../kinect/scenes/scene019.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit009.ply.pcd | Precision: 38.8889% | Recall: 1.92308% | Matches: 18 | Time: 345ms
+ | ICP refinement score 0.000182275
+Scene: ../kinect/scenes/scene019.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit010.ply.pcd | Precision: 18.1818% | Recall: 0.619195% | Matches: 11 | Time: 308ms
+ | ICP refinement score 0.000187739
+Scene: ../kinect/scenes/scene019.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit011.ply.pcd | Precision: 58.3333% | Recall: 2.08955% | Matches: 12 | Time: 318ms
+ | ICP refinement score 0.000196598
+Scene: ../kinect/scenes/scene019.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit012.ply.pcd | Precision: 43.75% | Recall: 2.05279% | Matches: 16 | Time: 319ms
+ | ICP refinement score 0.000230219
+Scene: ../kinect/scenes/scene019.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit013.ply.pcd | Precision: 100% | Recall: 4.49438% | Matches: 16 | Time: 362ms
+ | ICP refinement score 0.000206263
+Scene: ../kinect/scenes/scene019.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit014.ply.pcd | Precision: 90.4762% | Recall: 5.33708% | Matches: 21 | Time: 342ms
+ | ICP refinement score 0.000105645
+Scene: ../kinect/scenes/scene019.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit015.ply.pcd | Precision: 38.4615% | Recall: 1.49701% | Matches: 13 | Time: 340ms
+ | ICP refinement score 0.000132808
+Scene: ../kinect/scenes/scene022.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit000.ply.pcd | Precision: 100% | Recall: 3.31492% | Matches: 12 | Time: 322ms
+ | ICP refinement score 9.7951e-05
+Scene: ../kinect/scenes/scene022.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit001.ply.pcd | Precision: 13.3333% | Recall: 0.574713% | Matches: 15 | Time: 307ms
+ | ICP refinement score 0.000397634
+Scene: ../kinect/scenes/scene022.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit002.ply.pcd | Precision: 47.619% | Recall: 2.78552% | Matches: 21 | Time: 298ms
+ | ICP refinement score 0.000128041
+Scene: ../kinect/scenes/scene022.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit003.ply.pcd | Precision: 50% | Recall: 2.61628% | Matches: 18 | Time: 329ms
+ | ICP refinement score 0.000283886
+Scene: ../kinect/scenes/scene022.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit004.ply.pcd | Precision: 0% | Recall: 0% | Matches: 14 | Time: 312ms
+ | ICP refinement score 0.000206256
+Scene: ../kinect/scenes/scene022.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit005.ply.pcd | Precision: 23.0769% | Recall: 0.898204% | Matches: 13 | Time: 338ms
+ | ICP refinement score 0.000188281
+Scene: ../kinect/scenes/scene022.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit006.ply.pcd | Precision: 9.52381% | Recall: 0.687285% | Matches: 21 | Time: 317ms
+ | ICP refinement score 0.00012667
+Scene: ../kinect/scenes/scene022.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit007.ply.pcd | Precision: 71.4286% | Recall: 3.18471% | Matches: 14 | Time: 285ms
+ | ICP refinement score 0.000312625
+Scene: ../kinect/scenes/scene022.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit008.ply.pcd | Precision: 66.6667% | Recall: 3.1746% | Matches: 15 | Time: 299ms
+ | ICP refinement score 0.000206551
+Scene: ../kinect/scenes/scene022.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit009.ply.pcd | Precision: 42.8571% | Recall: 1.67131% | Matches: 14 | Time: 327ms
+ | ICP refinement score 0.000371113
+Scene: ../kinect/scenes/scene022.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit010.ply.pcd | Precision: 46.1538% | Recall: 1.84049% | Matches: 13 | Time: 318ms
+ | ICP refinement score 0.000325652
+Scene: ../kinect/scenes/scene022.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit011.ply.pcd | Precision: 100% | Recall: 3.40557% | Matches: 11 | Time: 299ms
+ | ICP refinement score 0.000161122
+Scene: ../kinect/scenes/scene022.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit012.ply.pcd | Precision: 76.9231% | Recall: 2.99401% | Matches: 13 | Time: 309ms
+ | ICP refinement score 0.00019859
+Scene: ../kinect/scenes/scene022.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit013.ply.pcd | Precision: 61.1111% | Recall: 3.14286% | Matches: 18 | Time: 319ms
+ | ICP refinement score 0.000305028
+Scene: ../kinect/scenes/scene022.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit014.ply.pcd | Precision: 93.3333% | Recall: 3.93258% | Matches: 15 | Time: 325ms
+ | ICP refinement score 0.000182815
+Scene: ../kinect/scenes/scene022.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit015.ply.pcd | Precision: 61.2903% | Recall: 5.52326% | Matches: 31 | Time: 279ms
+ | ICP refinement score 0.0002744
+Scene: ../kinect/scenes/scene032.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit000.ply.pcd | Precision: 87.5% | Recall: 5.7377% | Matches: 24 | Time: 310ms
+ | ICP refinement score 2.06832e-05
+Scene: ../kinect/scenes/scene032.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit001.ply.pcd | Precision: 34.7826% | Recall: 2.17984% | Matches: 23 | Time: 312ms
+ | ICP refinement score 0.000180538
+Scene: ../kinect/scenes/scene032.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit002.ply.pcd | Precision: 38.4615% | Recall: 1.45349% | Matches: 13 | Time: 312ms
+ | ICP refinement score 0.000158367
+Scene: ../kinect/scenes/scene032.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit003.ply.pcd | Precision: 92% | Recall: 6.37119% | Matches: 25 | Time: 329ms
+ | ICP refinement score 0.000267903
+Scene: ../kinect/scenes/scene032.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit004.ply.pcd | Precision: 91.3044% | Recall: 6.40244% | Matches: 23 | Time: 313ms
+ | ICP refinement score 0.000279357
+Scene: ../kinect/scenes/scene032.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit005.ply.pcd | Precision: 20% | Recall: 1.22699% | Matches: 20 | Time: 323ms
+ | ICP refinement score 0.000329225
+Scene: ../kinect/scenes/scene032.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit006.ply.pcd | Precision: 43.75% | Recall: 2.38908% | Matches: 16 | Time: 316ms
+ | ICP refinement score 0.000553339
+Scene: ../kinect/scenes/scene032.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit007.ply.pcd | Precision: 27.2727% | Recall: 0.9375% | Matches: 11 | Time: 318ms
+ | ICP refinement score 0.000293927
+Scene: ../kinect/scenes/scene032.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit008.ply.pcd | Precision: 0% | Recall: 0% | Matches: 11 | Time: 335ms
+ | ICP refinement score 0.000333452
+Scene: ../kinect/scenes/scene032.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit009.ply.pcd | Precision: 31.8182% | Recall: 2.00573% | Matches: 22 | Time: 340ms
+ | ICP refinement score 0.000456908
+Scene: ../kinect/scenes/scene032.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit010.ply.pcd | Precision: 72.2222% | Recall: 3.97554% | Matches: 18 | Time: 346ms
+ | ICP refinement score 0.000434325
+Scene: ../kinect/scenes/scene032.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit011.ply.pcd | Precision: 13.3333% | Recall: 0.634921% | Matches: 15 | Time: 348ms
+ | ICP refinement score 0.000298265
+Scene: ../kinect/scenes/scene032.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit012.ply.pcd | Precision: 12.5% | Recall: 0.60241% | Matches: 16 | Time: 304ms
+ | ICP refinement score 0.000180244
+Scene: ../kinect/scenes/scene032.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit013.ply.pcd | Precision: 76.1905% | Recall: 4.51977% | Matches: 21 | Time: 321ms
+ | ICP refinement score 0.000468407
+Scene: ../kinect/scenes/scene032.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit014.ply.pcd | Precision: 26.6667% | Recall: 1.11732% | Matches: 15 | Time: 337ms
+ | ICP refinement score 0.000256323
+Scene: ../kinect/scenes/scene032.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit015.ply.pcd | Precision: 0% | Recall: 0% | Matches: 18 | Time: 336ms
+ | ICP refinement score 0.000239452
+Scene: ../kinect/scenes/scene036.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit000.ply.pcd | Precision: 63.6364% | Recall: 3.94366% | Matches: 22 | Time: 356ms
+ | ICP refinement score 0.000391853
+Scene: ../kinect/scenes/scene036.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit001.ply.pcd | Precision: 50% | Recall: 2.25352% | Matches: 16 | Time: 322ms
+ | ICP refinement score 0.000366893
+Scene: ../kinect/scenes/scene036.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit002.ply.pcd | Precision: 93.75% | Recall: 3.88601% | Matches: 16 | Time: 311ms
+ | ICP refinement score 0.000171665
+Scene: ../kinect/scenes/scene036.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit003.ply.pcd | Precision: 0% | Recall: 0% | Matches: 23 | Time: 326ms
+ | ICP refinement score 0.00041754
+Scene: ../kinect/scenes/scene036.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit004.ply.pcd | Precision: 97.2973% | Recall: 11.465% | Matches: 37 | Time: 255ms
+ | ICP refinement score 2.69325e-05
+Scene: ../kinect/scenes/scene036.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit005.ply.pcd | Precision: 43.75% | Recall: 2.12121% | Matches: 16 | Time: 308ms
+ | ICP refinement score 0.000638641
+Scene: ../kinect/scenes/scene036.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit006.ply.pcd | Precision: 40.9091% | Recall: 3.02013% | Matches: 22 | Time: 312ms
+ | ICP refinement score 0.000163833
+Scene: ../kinect/scenes/scene036.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit007.ply.pcd | Precision: 12.5% | Recall: 0.636943% | Matches: 16 | Time: 329ms
+ | ICP refinement score 0.000213099
+Scene: ../kinect/scenes/scene036.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit008.ply.pcd | Precision: 30.7692% | Recall: 1.23077% | Matches: 13 | Time: 331ms
+ | ICP refinement score 0.000437769
+Scene: ../kinect/scenes/scene036.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit009.ply.pcd | Precision: 22.2222% | Recall: 1.11111% | Matches: 18 | Time: 340ms
+ | ICP refinement score 0.000238249
+Scene: ../kinect/scenes/scene036.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit010.ply.pcd | Precision: 73.3333% | Recall: 3.26409% | Matches: 15 | Time: 327ms
+ | ICP refinement score 0.000280658
+Scene: ../kinect/scenes/scene036.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit011.ply.pcd | Precision: 66.6667% | Recall: 2.51572% | Matches: 12 | Time: 312ms
+ | ICP refinement score 0.000108965
+Scene: ../kinect/scenes/scene036.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit012.ply.pcd | Precision: 30% | Recall: 1.76991% | Matches: 20 | Time: 320ms
+ | ICP refinement score 0.00059707
+Scene: ../kinect/scenes/scene036.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit013.ply.pcd | Precision: 30% | Recall: 2.50696% | Matches: 30 | Time: 328ms
+ | ICP refinement score 0.000316005
+Scene: ../kinect/scenes/scene036.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit014.ply.pcd | Precision: 100% | Recall: 4.51977% | Matches: 16 | Time: 328ms
+ | ICP refinement score 0.000428126
+Scene: ../kinect/scenes/scene036.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit015.ply.pcd | Precision: 17.6471% | Recall: 0.955414% | Matches: 17 | Time: 314ms
+ | ICP refinement score 0.000109099
+Scene: ../kinect/scenes/scene039.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit000.ply.pcd | Precision: 88.2353% | Recall: 4.08719% | Matches: 17 | Time: 360ms
+ | ICP refinement score 0.000198743
+Scene: ../kinect/scenes/scene039.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit001.ply.pcd | Precision: 42.8571% | Recall: 1.65746% | Matches: 14 | Time: 365ms
+ | ICP refinement score 0.000313686
+Scene: ../kinect/scenes/scene039.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit002.ply.pcd | Precision: 20% | Recall: 1.11732% | Matches: 20 | Time: 363ms
+ | ICP refinement score 0.00172755
+Scene: ../kinect/scenes/scene039.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit003.ply.pcd | Precision: 65.2174% | Recall: 4.17827% | Matches: 23 | Time: 358ms
+ | ICP refinement score 0.000189759
+Scene: ../kinect/scenes/scene039.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit004.ply.pcd | Precision: 94.1176% | Recall: 4.84848% | Matches: 17 | Time: 352ms
+ | ICP refinement score 0.000202319
+Scene: ../kinect/scenes/scene039.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit005.ply.pcd | Precision: 70.8333% | Recall: 5.18293% | Matches: 24 | Time: 335ms
+ | ICP refinement score 0.000153729
+Scene: ../kinect/scenes/scene039.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit006.ply.pcd | Precision: 100% | Recall: 5.46075% | Matches: 16 | Time: 342ms
+ | ICP refinement score 0.000217748
+Scene: ../kinect/scenes/scene039.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit007.ply.pcd | Precision: 62.5% | Recall: 3.1746% | Matches: 16 | Time: 329ms
+ | ICP refinement score 0.000368258
+Scene: ../kinect/scenes/scene039.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit008.ply.pcd | Precision: 82.3529% | Recall: 4.30769% | Matches: 17 | Time: 325ms
+ | ICP refinement score 0.000187423
+Scene: ../kinect/scenes/scene039.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit009.ply.pcd | Precision: 0% | Recall: 0% | Matches: 15 | Time: 340ms
+ | ICP refinement score 0.00130723
+Scene: ../kinect/scenes/scene039.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit010.ply.pcd | Precision: 53.8462% | Recall: 2.2293% | Matches: 13 | Time: 404ms
+ | ICP refinement score 0.000195694
+Scene: ../kinect/scenes/scene039.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit011.ply.pcd | Precision: 78.5714% | Recall: 3.47003% | Matches: 14 | Time: 316ms
+ | ICP refinement score 0.000118417
+Scene: ../kinect/scenes/scene039.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit012.ply.pcd | Precision: 77.7778% | Recall: 2.12766% | Matches: 9 | Time: 354ms
+ | ICP refinement score 0.000178852
+Scene: ../kinect/scenes/scene039.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit013.ply.pcd | Precision: 81.8182% | Recall: 2.55682% | Matches: 11 | Time: 333ms
+ | ICP refinement score 0.000298163
+Scene: ../kinect/scenes/scene039.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit014.ply.pcd | Precision: 86.6667% | Recall: 3.63128% | Matches: 15 | Time: 352ms
+ | ICP refinement score 0.000200097
+Scene: ../kinect/scenes/scene039.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit015.ply.pcd | Precision: 33.3333% | Recall: 1.1976% | Matches: 12 | Time: 334ms
+ | ICP refinement score 0.000254837
+Scene: ../kinect/scenes/sceneTuning.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit000.ply.pcd | Precision: 90.9091% | Recall: 2.84091% | Matches: 11 | Time: 378ms
+ | ICP refinement score 0.00114287
+Scene: ../kinect/scenes/sceneTuning.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit001.ply.pcd | Precision: 0% | Recall: 0% | Matches: 11 | Time: 368ms
+ | ICP refinement score 0.000150665
+Scene: ../kinect/scenes/sceneTuning.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit002.ply.pcd | Precision: 61.1111% | Recall: 3.19767% | Matches: 18 | Time: 365ms
+ | ICP refinement score 0.000199299
+Scene: ../kinect/scenes/sceneTuning.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit003.ply.pcd | Precision: 0% | Recall: 0% | Matches: 18 | Time: 362ms
+ | ICP refinement score 0.000421105
+Scene: ../kinect/scenes/sceneTuning.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit004.ply.pcd | Precision: 25% | Recall: 1.20482% | Matches: 16 | Time: 388ms
+ | ICP refinement score 0.000478147
+Scene: ../kinect/scenes/sceneTuning.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit005.ply.pcd | Precision: 18.1818% | Recall: 0.607903% | Matches: 11 | Time: 386ms
+ | ICP refinement score 0.000304269
+Scene: ../kinect/scenes/sceneTuning.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit006.ply.pcd | Precision: 62.5% | Recall: 3.37838% | Matches: 16 | Time: 342ms
+ | ICP refinement score 0.000311757
+Scene: ../kinect/scenes/sceneTuning.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit007.ply.pcd | Precision: 61.1111% | Recall: 3.51438% | Matches: 18 | Time: 341ms
+ | ICP refinement score 0.000202187
+Scene: ../kinect/scenes/sceneTuning.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit008.ply.pcd | Precision: 0% | Recall: 0% | Matches: 10 | Time: 346ms
+ | ICP refinement score 0.000265125
+Scene: ../kinect/scenes/sceneTuning.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit009.ply.pcd | Precision: 81.8182% | Recall: 2.76923% | Matches: 11 | Time: 348ms
+ | ICP refinement score 0.00019397
+Scene: ../kinect/scenes/sceneTuning.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit010.ply.pcd | Precision: 46.1538% | Recall: 1.75439% | Matches: 13 | Time: 374ms
+ | ICP refinement score 0.000189158
+Scene: ../kinect/scenes/sceneTuning.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit011.ply.pcd | Precision: 31.5789% | Recall: 1.89274% | Matches: 19 | Time: 374ms
+ | ICP refinement score 0.000309692
+Scene: ../kinect/scenes/sceneTuning.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit012.ply.pcd | Precision: 30.4348% | Recall: 2.07101% | Matches: 23 | Time: 374ms
+ | ICP refinement score 0.000251053
+Scene: ../kinect/scenes/sceneTuning.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit013.ply.pcd | Precision: 77.2727% | Recall: 4.78873% | Matches: 22 | Time: 352ms
+ | ICP refinement score 0.000167206
+Scene: ../kinect/scenes/sceneTuning.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit014.ply.pcd | Precision: 100% | Recall: 2.86533% | Matches: 10 | Time: 356ms
+ | ICP refinement score 0.000164222
+Scene: ../kinect/scenes/sceneTuning.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit015.ply.pcd | Precision: 45.4545% | Recall: 1.47929% | Matches: 11 | Time: 352ms
+ | ICP refinement score 0.000274734
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit000.ply.pcd | Precision: 96.5517% | Recall: 7.79944% | Matches: 29 | Time: 302ms
+ | ICP refinement score 7.7647e-05
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit001.ply.pcd | Precision: 0% | Recall: 0% | Matches: 14 | Time: 300ms
+ | ICP refinement score 0.000121774
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit002.ply.pcd | Precision: 33.3333% | Recall: 1.40056% | Matches: 15 | Time: 299ms
+ | ICP refinement score 0.000378125
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit003.ply.pcd | Precision: 89.4737% | Recall: 4.67033% | Matches: 19 | Time: 304ms
+ | ICP refinement score 0.000188147
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit004.ply.pcd | Precision: 36.3636% | Recall: 2.45399% | Matches: 22 | Time: 294ms
+ | ICP refinement score 0.000605575
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit005.ply.pcd | Precision: 77.7778% | Recall: 4.4586% | Matches: 18 | Time: 303ms
+ | ICP refinement score 0.000170882
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit006.ply.pcd | Precision: 66.6667% | Recall: 2.0202% | Matches: 9 | Time: 289ms
+ | ICP refinement score 0.00037586
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit007.ply.pcd | Precision: 92.5926% | Recall: 7.71605% | Matches: 27 | Time: 293ms
+ | ICP refinement score 0.000729784
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit008.ply.pcd | Precision: 64.2857% | Recall: 2.76923% | Matches: 14 | Time: 297ms
+ | ICP refinement score 0.000653896
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit009.ply.pcd | Precision: 38.8889% | Recall: 2.04678% | Matches: 18 | Time: 334ms
+ | ICP refinement score 0.00039786
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit010.ply.pcd | Precision: 0% | Recall: 0% | Matches: 11 | Time: 334ms
+ | ICP refinement score 0.000340475
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit011.ply.pcd | Precision: 62.5% | Recall: 4.53172% | Matches: 24 | Time: 316ms
+ | ICP refinement score 0.000409009
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit012.ply.pcd | Precision: 91.6667% | Recall: 6.74847% | Matches: 24 | Time: 322ms
+ | ICP refinement score 0.00478397
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit013.ply.pcd | Precision: 0% | Recall: 0% | Matches: 25 | Time: 338ms
+ | ICP refinement score 0.0012306
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit014.ply.pcd | Precision: 100% | Recall: 8.26211% | Matches: 29 | Time: 318ms
+ | ICP refinement score 2.64063e-05
+Scene: ../kinect/scenes/scene001.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit015.ply.pcd | Precision: 100% | Recall: 11.0778% | Matches: 37 | Time: 282ms
+ | ICP refinement score 4.6975e-05
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit000.ply.pcd | Precision: 100% | Recall: 6.81818% | Matches: 24 | Time: 321ms
+ | ICP refinement score 3.46593e-05
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit001.ply.pcd | Precision: 5.55556% | Recall: 0.266667% | Matches: 18 | Time: 334ms
+ | ICP refinement score 0.000255149
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit002.ply.pcd | Precision: 12.5% | Recall: 0.550964% | Matches: 16 | Time: 321ms
+ | ICP refinement score 0.000261946
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit003.ply.pcd | Precision: 0% | Recall: 0% | Matches: 14 | Time: 334ms
+ | ICP refinement score 0.00039296
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit004.ply.pcd | Precision: 96.7742% | Recall: 9.23077% | Matches: 31 | Time: 303ms
+ | ICP refinement score 0.000262554
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit005.ply.pcd | Precision: 10.7143% | Recall: 0.911854% | Matches: 28 | Time: 318ms
+ | ICP refinement score 0.000160532
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit006.ply.pcd | Precision: 66.6667% | Recall: 2.64901% | Matches: 12 | Time: 333ms
+ | ICP refinement score 0.000191426
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit007.ply.pcd | Precision: 71.4286% | Recall: 3.20513% | Matches: 14 | Time: 328ms
+ | ICP refinement score 0.000224527
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit008.ply.pcd | Precision: 0% | Recall: 0% | Matches: 18 | Time: 318ms
+ | ICP refinement score 0.000430001
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit009.ply.pcd | Precision: 18.75% | Recall: 0.898204% | Matches: 16 | Time: 344ms
+ | ICP refinement score 0.000496791
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit010.ply.pcd | Precision: 0% | Recall: 0% | Matches: 14 | Time: 321ms
+ | ICP refinement score 0.000201005
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit011.ply.pcd | Precision: 56.25% | Recall: 2.85714% | Matches: 16 | Time: 324ms
+ | ICP refinement score 0.000721572
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit012.ply.pcd | Precision: 96% | Recall: 7.20721% | Matches: 25 | Time: 361ms
+ | ICP refinement score 0.000267578
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit013.ply.pcd | Precision: 96% | Recall: 6.91643% | Matches: 25 | Time: 357ms
+ | ICP refinement score 0.000196916
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit014.ply.pcd | Precision: 76.1905% | Recall: 4.51977% | Matches: 21 | Time: 402ms
+ | ICP refinement score 2.48503e-05
+Scene: ../kinect/scenes/scene003.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit015.ply.pcd | Precision: 100% | Recall: 10.7558% | Matches: 37 | Time: 308ms
+ | ICP refinement score 2.22735e-05
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit000.ply.pcd | Precision: 100% | Recall: 3.59116% | Matches: 13 | Time: 326ms
+ | ICP refinement score 0.000282865
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit001.ply.pcd | Precision: 45.4545% | Recall: 1.39276% | Matches: 11 | Time: 339ms
+ | ICP refinement score 4.17736e-05
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit002.ply.pcd | Precision: 0% | Recall: 0% | Matches: 15 | Time: 335ms
+ | ICP refinement score 0.000292247
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit003.ply.pcd | Precision: 70.5882% | Recall: 3.34262% | Matches: 17 | Time: 323ms
+ | ICP refinement score 0.00028945
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit004.ply.pcd | Precision: 46.1538% | Recall: 1.85759% | Matches: 13 | Time: 316ms
+ | ICP refinement score 0.000366253
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit005.ply.pcd | Precision: 61.1111% | Recall: 3.36391% | Matches: 18 | Time: 353ms
+ | ICP refinement score 0.000294156
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit006.ply.pcd | Precision: 72.7273% | Recall: 2.67559% | Matches: 11 | Time: 379ms
+ | ICP refinement score 0.000165715
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit007.ply.pcd | Precision: 54.5455% | Recall: 3.79747% | Matches: 22 | Time: 311ms
+ | ICP refinement score 0.000155034
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit008.ply.pcd | Precision: 0% | Recall: 0% | Matches: 12 | Time: 313ms
+ | ICP refinement score 0.000180513
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit009.ply.pcd | Precision: 83.3333% | Recall: 2.94985% | Matches: 12 | Time: 307ms
+ | ICP refinement score 0.00020625
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit010.ply.pcd | Precision: 35.7143% | Recall: 1.47493% | Matches: 14 | Time: 301ms
+ | ICP refinement score 0.000234794
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit011.ply.pcd | Precision: 75% | Recall: 3.79747% | Matches: 16 | Time: 316ms
+ | ICP refinement score 0.000573949
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit012.ply.pcd | Precision: 52.1739% | Recall: 3.49854% | Matches: 23 | Time: 340ms
+ | ICP refinement score 0.000264163
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit013.ply.pcd | Precision: 100% | Recall: 6.30372% | Matches: 22 | Time: 327ms
+ | ICP refinement score 0.000311628
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit014.ply.pcd | Precision: 14.2857% | Recall: 0.561798% | Matches: 14 | Time: 320ms
+ | ICP refinement score 0.000684672
+Scene: ../kinect/scenes/scene011.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit015.ply.pcd | Precision: 50% | Recall: 1.69014% | Matches: 12 | Time: 308ms
+ | ICP refinement score 0.000190877
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit000.ply.pcd | Precision: 0% | Recall: 0% | Matches: 15 | Time: 309ms
+ | ICP refinement score 0.000247969
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit001.ply.pcd | Precision: 94.1176% | Recall: 4.35967% | Matches: 17 | Time: 358ms
+ | ICP refinement score 0.000197204
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit002.ply.pcd | Precision: 53.125% | Recall: 4.65753% | Matches: 32 | Time: 275ms
+ | ICP refinement score 0.000388651
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit003.ply.pcd | Precision: 56% | Recall: 4% | Matches: 25 | Time: 298ms
+ | ICP refinement score 0.000265516
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit004.ply.pcd | Precision: 5% | Recall: 0.314465% | Matches: 20 | Time: 287ms
+ | ICP refinement score 0.000417784
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit005.ply.pcd | Precision: 86.6667% | Recall: 4% | Matches: 15 | Time: 297ms
+ | ICP refinement score 0.000198293
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit006.ply.pcd | Precision: 7.14286% | Recall: 0.344828% | Matches: 14 | Time: 316ms
+ | ICP refinement score 0.000342474
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit007.ply.pcd | Precision: 0% | Recall: 0% | Matches: 11 | Time: 299ms
+ | ICP refinement score 0.000997928
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit008.ply.pcd | Precision: 10% | Recall: 0.30581% | Matches: 10 | Time: 294ms
+ | ICP refinement score 0.000352179
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit009.ply.pcd | Precision: 94.4444% | Recall: 4.94186% | Matches: 18 | Time: 316ms
+ | ICP refinement score 0.000465253
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit010.ply.pcd | Precision: 23.0769% | Recall: 0.895522% | Matches: 13 | Time: 306ms
+ | ICP refinement score 0.000357911
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit011.ply.pcd | Precision: 25% | Recall: 1.25786% | Matches: 16 | Time: 276ms
+ | ICP refinement score 0.000160266
+Scene: ../kinect/scenes/scene018.ply.pcd | Model: ../kinect/objects/peterRabbit/PeterRabbit012.ply.pcd | Precision: 37.037% | Recall: 3.08642% | Matches: 27 | Time: 292ms
+ | ICP refinement score 0.00023936

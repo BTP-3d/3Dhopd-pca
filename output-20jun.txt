@@ -1,0 +1,68 @@
+
+=========================================  Old 
+Keypoints on Model: 70725
+Keypoints on Scene: 997
+Time taken for Feature Descriptor Extraction: 6.4682
+No. of Reciprocal Correspondences : 70656
+Transformation Matrix : 
+ 0.0715031  0.0509006   0.996141    1.92417
+  0.387438  -0.921694  0.0192862   0.150105
+  0.919119   0.384564 -0.0856248   -1.52622
+         0          0          0          1
+True correspondences after RANSAC : 7
+Actual Keypoints : 316
+RRR of 3D LRF's * 2.21519
+ 
+No. of RANSAC matches of 3DLRF descriptors : 70656
+Groundtruth matches of 3DLRF's' * 7
+RRR of 3DLRF / recall * : 0.0221519
+CR Alpha Threshold : 0.0075
+Precision : 9.90716e-05
+actual keypoints : 316
+
+
+
+
+
+=========================================   PCA without OMP
+
+Object keypoints: 1272
+Scene keypoints: 24724
+Initial matches: 1269
+Inliers after RANSAC: 81
+ICP refinement converged. Score: 2.00084e-06
+
+============== Results ==============
+Processing time: 2777 ms
+Correct matches: 81/81
+Precision: 1
+Transformation:
+           1 -0.000904713  0.000113901    -0.029239
+  0.00090443            1  0.000206783    -0.615251
+-0.000114173  -0.00020666            1      1.02174
+           0            0            0            1
+rohan-vinkare@rohanV:~/Collage/BTP/3DHOPD-live/build$ 
+
+
+
+
+
+
+=======================================    PCA With OMP
+
+Using 16 threads for parallel processing
+Object keypoints: 1272
+Scene keypoints: 24724
+Initial matches: 1269
+Inliers after RANSAC: 81
+ICP refinement converged. Score: 2.00084e-06
+
+============== Results ==============
+Processing time: 1343 ms
+Correct matches: 81/81
+Precision: 1
+Transformation:
+           1 -0.000904713  0.000113901    -0.029239
+  0.00090443            1  0.000206783    -0.615251
+-0.000114173  -0.00020666            1ss      1.02174
+           0            0            0            1
